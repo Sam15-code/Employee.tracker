@@ -1,0 +1,7 @@
+USE employeeTracker_db;
+
+SELECT * FROM DEPARTMENT;
+
+SELECT * FROM ROLES;
+
+SELECT * FROM employee;
