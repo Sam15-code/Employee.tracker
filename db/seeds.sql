@@ -7,7 +7,7 @@ INSERT INTO DEPARTMENT(NAME) VALUES ("IT"),("Sales")
 
 INSERT INTO ROLES(TITLE, SALARY, department_id) VALUES
 ('Manager of IT',120000,1),
-('Sales Manager',100000,1),
+('Sales Manager',100000,2),
 ('Production Manager',100000,2);
 
 INSERT INTO employee(FIRSTNAME,LASTNAME,ROLE_ID)
