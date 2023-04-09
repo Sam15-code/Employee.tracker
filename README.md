@@ -17,5 +17,5 @@ Employee Tracker is a CLI applicaiton for building and maintaining companies emp
 
 ## Contact Information
 
-- [GitHubProfile](#https://github.com/Sam15-code)
+- [https://github.com/Sam15-code](#GitHub)
   
