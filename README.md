@@ -10,8 +10,12 @@ Employee Tracker is a CLI applicaiton for building and maintaining companies emp
 ## Built with
 
 - [MySQL](#MySQL)
-- [Express.js](express.js)
-- [Node.js](node.js)
-- [npmjs](npmjs)
-- [inquirer](inquirer)
+- [Express.js](#express.js)
+- [Node.js](#node.js)
+- [npmjs](#npmjs)
+- [inquirer](#inquirer)
+
+## Contact Information
+
+[GitHubProfile](#https://github.com/Sam15-code)
   
